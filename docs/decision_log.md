@@ -1,0 +1,2 @@
+# Decision Log
+   - 17 Oct 2026 – Using table `bigquery-public-data.ga4_obfuscated_sample_ecommerce.events_*` – This is the name in Google's code box under "Using the dataset". The screenshot shows a different project that I may not have access to.
